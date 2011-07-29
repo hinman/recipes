@@ -1,0 +1,45 @@
+\documentclass[letter]{recipe}
+\usepackage[T1]{fontenc}
+\usepackage{times,enumerate,ifthen}
+\usepackage[usenames]{color}
+
+\newcommand{\bsi}[2]{%
+  \fontencoding{T1}\fontfamily{pbs}\fontseries{xl}\fontshape{n}%
+  \fontsize{#1}{#2}\selectfont}
+
+\renewcommand{\inghead}{\textbf{Ingredients}:\ }
+%\renewcommand{\rechead}{\centering\bsi{24pt}{30pt}}
+\renewcommand{\rechead}{\centering\huge\sffamily\bfseries\color{red}}
+\makeatletter \setlength{\@totalleftmargin}{0pt}
+\renewcommand*\l@subsubsection{\@dottedtocline{3}{3em}{0em}}
+\makeatother \setlength\parindent{0pt} \setlength\parskip{2ex plus 0.5ex}
+ \pagestyle{empty}
+\begin{document}
+\recipe{Holliday Dinner Rolls}
+\ingred{
+\begin{itemize}
+\item $\frac{1}{3}$ cup water
+\item 3 large eggs
+\item $\frac{1}{4}$ cup butter cup up
+\item 1 tsp salt
+\item 3 $\frac{1}{2}$ cups bread flour
+\item 3 tbsp sugar
+\item 2 tsp bread machine yeast
+\end{itemize}
+Glaze
+\begin{itemize}
+\item 1 large egg
+\item 1 tbsp sugar
+\end{itemize}
+}
+
+\begin{enumerate}[{\color{blue} 1.}]
+\addtolength{\itemindent}{2em}
+ \item Add ingredients to bread machine
+ \item Use Dough setting on bread machine
+ \item form dough into rosettes
+ \item let rise to almost double
+ \item apply glaze
+ \item base 375 degrees for 12 -- 14 minutes
+\end{enumerate}
+\end{document}
