@@ -1,0 +1,39 @@
+\documentclass[letter]{recipe}
+\usepackage[T1]{fontenc}
+\usepackage{times,enumerate,ifthen}
+\usepackage[usenames]{color}
+
+\newcommand{\bsi}[2]{%
+  \fontencoding{T1}\fontfamily{pbs}\fontseries{xl}\fontshape{n}%
+  \fontsize{#1}{#2}\selectfont}
+
+\renewcommand{\inghead}{\textbf{Ingredients (for 1 drink)}:\ }
+%\renewcommand{\rechead}{\centering\bsi{24pt}{30pt}}
+\renewcommand{\rechead}{\centering\huge\sffamily\bfseries\color{red}}
+\makeatletter \setlength{\@totalleftmargin}{0pt}
+\renewcommand*\l@subsubsection{\@dottedtocline{3}{3em}{0em}}
+\makeatother \setlength\parindent{0pt} \setlength\parskip{2ex plus 0.5ex}
+ \pagestyle{empty}
+\begin{document}
+\recipe{Cosmopolitan}
+\ingred{
+\begin{itemize}
+\item 1 oz. Vodka
+\item $\frac{1}{2}$ oz. fresh squeezed lime juice
+\item $\frac{1}{2}$ oz. Triple Sec
+\item $\frac{1}{2}$ oz. Cranberry juice
+\item $\frac{1}{2}$ tsp. powdered sugar
+\end{itemize}
+}
+
+\begin{enumerate}[{\color{blue} 1.}]
+\addtolength{\itemindent}{2em}
+ \item Add ice to shaker
+%
+ \item mix powdered sugar and lime juice
+%
+ \item add lime juice, cranberry juice, triple sec and vodka to shaker
+%
+ \item shake and strain into martini glass
+\end{enumerate}
+\end{document}
