@@ -1,0 +1,40 @@
+\documentclass[letter]{recipe}
+\usepackage[T1]{fontenc}
+\usepackage{times,enumerate,ifthen}
+\usepackage[usenames]{color}
+
+\newcommand{\bsi}[2]{%
+  \fontencoding{T1}\fontfamily{pbs}\fontseries{xl}\fontshape{n}%
+  \fontsize{#1}{#2}\selectfont}
+
+\renewcommand{\inghead}{\textbf{Ingredients}:\ }
+%\renewcommand{\rechead}{\centering\bsi{24pt}{30pt}}
+\renewcommand{\rechead}{\centering\huge\sffamily\bfseries\color{red}}
+\makeatletter \setlength{\@totalleftmargin}{0pt}
+\renewcommand*\l@subsubsection{\@dottedtocline{3}{3em}{0em}}
+\makeatother \setlength\parindent{0pt} \setlength\parskip{2ex plus 0.5ex}
+ \pagestyle{empty}
+\begin{document}
+\recipe{Shannon's Macaroni and Cheese}
+\ingred{
+\begin{itemize}
+\item 16 oz Jumbo Elbow Macaroni
+\item 4 oz Proscuitto
+\item 1 pint Heavy Cream
+\item 2 cups Parmesean Cheese
+\item 2 $\frac{1}{2}$ cups Swiss Cheese
+\item 2 cups Milk
+\item 1 tsp Nutmeg (Optional)
+\end{itemize}
+}
+
+\begin{enumerate}[{\color{blue} 1.}]
+\addtolength{\itemindent}{2em}
+ \item Cook Pasta
+ \item Dice Proscuitto
+ \item Mix Pasta, Proscuitto, Cream, Milk and Paremesan
+ \item Add to 9x13 pan
+ \item Top with Salt, Pepper and Swiss Cheese
+ \item Make at 375 degrees for 45 minutes
+\end{enumerate}
+\end{document}
