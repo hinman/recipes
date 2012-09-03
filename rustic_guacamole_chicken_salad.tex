@@ -1,0 +1,61 @@
+\documentclass[letter]{recipe}
+\usepackage[T1]{fontenc}
+\usepackage{times,enumerate,ifthen}
+\usepackage[usenames]{color}
+
+\newcommand{\bsi}[2]{%
+  \fontencoding{T1}\fontfamily{pbs}\fontseries{xl}\fontshape{n}%
+  \fontsize{#1}{#2}\selectfont}
+
+\renewcommand{\inghead}{\textbf{Ingredients}:\ }
+%\renewcommand{\rechead}{\centering\bsi{24pt}{30pt}}
+\renewcommand{\rechead}{\centering\huge\sffamily\bfseries\color{red}}
+\makeatletter \setlength{\@totalleftmargin}{0pt}
+\renewcommand*\l@subsubsection{\@dottedtocline{3}{3em}{0em}}
+\makeatother \setlength\parindent{0pt} \setlength\parskip{2ex plus 0.5ex}
+ \pagestyle{empty}
+\begin{document}
+\recipe{Grilled Chicken Salad with Rustic Guacamole, Romaine and Queso
+Anejo}
+\ingred{
+\begin{itemize}
+\item $\frac{1}{2}$ cup vegetable oil
+\item 4 cloves garlic, peeled and halved
+\item 2 serrano chilles, stemmed and halved
+\item 2 jalapeno chilles, stemmed and halved
+\item $\frac{1}{2}$ cup lime juice
+\item $\frac{3}{4}$ cup loosely packed, rough chopped cilantro
+\item $\frac{1}{4}$ teaspoon ground black pepper
+\item salt
+\end{itemize}
+chicken and lettuce
+\begin{itemize}
+\item 4 boneless skinless chicken breasts
+\item 1 medium white onion, cut into $\frac{1}{2}$ inch slices
+\item 2 ripe avocados
+\item 2 medium romain hearts, sliced crosswise into $\frac{1}{2}$ inch
+  wide strips
+\item $\frac{1}{3}$ cup of grated Mexican queso anejo, or Romano or Parmesan
+\end{itemize}
+}
+
+\begin{enumerate}[{\color{blue} 1.}]
+\addtolength{\itemindent}{2em}
+ \item heat oil in small skillet over medium heat
+ \item add garlic and chiles, strir frequently until garlic is lightly browned
+ \item pour oil, garlic and chiles into blender
+ \item add lime juice, cilantro, black pepper and teaspoon salt
+ \item process until smooth
+ \item marinate chicken in $\frac{1}{3}$ of garlic dressing
+ \item cook onion and chicken on grill
+ \item chop onions and place in bowl
+ \item pit avocados and add to onions
+ \item add $\frac{1}{3}$ of garlic dressing to avocados and onion
+ \item mash together, season to taste with salt
+ \item mix romaine and remaining garlic dressing
+ \item add romain to dinner plate
+ \item scoop portion of gucamole into center of each plate
+ \item cut chicken breast into cubes and add to plate
+ \item sprinkle each plate with queso anejo
+\end{enumerate}
+\end{document}
