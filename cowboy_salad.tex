@@ -1,0 +1,48 @@
+\documentclass[letter]{recipe}
+\usepackage[T1]{fontenc}
+\usepackage{times,enumerate,ifthen}
+\usepackage[usenames]{color}
+
+\newcommand{\bsi}[2]{%
+  \fontencoding{T1}\fontfamily{pbs}\fontseries{xl}\fontshape{n}%
+  \fontsize{#1}{#2}\selectfont}
+
+\renewcommand{\inghead}{\textbf{Ingredients}:\ }
+%\renewcommand{\rechead}{\centering\bsi{24pt}{30pt}}
+\renewcommand{\rechead}{\centering\huge\sffamily\bfseries\color{red}}
+\makeatletter \setlength{\@totalleftmargin}{0pt}
+\renewcommand*\l@subsubsection{\@dottedtocline{3}{3em}{0em}}
+\makeatother \setlength\parindent{0pt} \setlength\parskip{2ex plus 0.5ex}
+ \pagestyle{empty}
+\begin{document}
+\recipe{Cowboy Salad}
+\ingred{
+  \begin{itemize}
+    \item boneless skinless chicken breast
+    \item romaine lettuce
+    \item pico de gallo
+    \item guacamole
+    \item garlic
+    \item olive oil
+    \item seeded jalapeno peppers
+    \item lime juice
+    \item fresh ground black pepper
+    \item corn
+    \item black beans
+    \item red pepper
+    \item shaved raddish
+    \item chihuahua cheese
+  \end{itemize}
+}
+
+\begin{enumerate}[{\color{blue} 1.}]
+\addtolength{\itemindent}{2em}
+ \item puree in blender, olive oil, jalapeno peppers, garlic, lime
+   juice and pepper
+ \item use $\frac{3}{4}$ of marinade on chicken breasts
+ \item marinate for at least 1 hour
+ \item grill chicken
+ \item combine ingredients for salad
+ \item use remaining marinade for dressing
+\end{enumerate}
+\end{document}
