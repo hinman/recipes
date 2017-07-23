@@ -1,0 +1,35 @@
+\documentclass[letter]{recipe}
+\usepackage[T1]{fontenc}
+\usepackage{times,enumerate,ifthen}
+\usepackage[usenames]{color}
+
+\newcommand{\bsi}[2]{%
+  \fontencoding{T1}\fontfamily{pbs}\fontseries{xl}\fontshape{n}%
+  \fontsize{#1}{#2}\selectfont}
+
+\renewcommand{\inghead}{\textbf{Ingredients (for 1 drink)}:\ }
+%\renewcommand{\rechead}{\centering\bsi{24pt}{30pt}}
+\renewcommand{\rechead}{\centering\huge\sffamily\bfseries\color{red}}
+\makeatletter \setlength{\@totalleftmargin}{0pt}
+\renewcommand*\l@subsubsection{\@dottedtocline{3}{3em}{0em}}
+\makeatother \setlength\parindent{0pt} \setlength\parskip{2ex plus 0.5ex}
+ \pagestyle{empty}
+\begin{document}
+\recipe{Vodka Gimlet}
+\ingred{
+\begin{itemize}
+\item 2 oz. Vodka
+\item 1 oz. fresh lime juice
+\item $\frac{3}{4}$ oz. simple syrup
+\end{itemize}
+}
+
+\begin{enumerate}[{\color{blue} 1.}]
+\addtolength{\itemindent}{2em}
+\item fill shaker with ice
+\item squeeze lime into shaker glass
+  \item add simple syrup
+  \item add vodka
+ \item shake well and poor
+\end{enumerate}
+\end{document}
