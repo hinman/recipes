@@ -1,0 +1,61 @@
+.TITLE     "Strawberry Cupcakes"
+.PRINTSTYLE TYPESET
+.START
+.HEADING_STYLE 1 FONT B QUAD C SIZE +4 
+.HEADING_STYLE 2 FONT B QUAD L SIZE +1
+.HEADING_STYLE 3 FONT BI QUAD L SIZE +1
+
+.HEADING 1 "Cake"
+.HEADING 2 "Ingredients"
+.LIST BULLET
+.ITEM
+1 white cake mix (without pudding)
+.ITEM
+3 oz. strawberry Jello
+.ITEM
+4 Tbsp. all purpose flour
+.ITEM
+1 cup milk
+.ITEM
+\[12] cup vegetable oil
+.ITEM
+\[12] cup crushed strawberries
+.ITEM
+3 large eggs
+.LIST OFF
+
+.HEADING 2 "Instructions"
+.LIST DIGIT
+.ITEM
+pre-heat oven 350\[de]
+.ITEM
+combine ingredients
+.ITEM
+mix for 1\[12] \[en] 2 minutes  \*[BD]Do Not Over Mix\*[PREV]
+.ITEM
+bake for 20 \[en] 25 minutes
+.LIST OFF
+.HEADING 1 "Frosting"
+.HEADING 2 "Ingredients"
+.LIST BULLET
+.ITEM
+1 medium lemon
+.ITEM
+4 Tbsp. (\[12] stick) butter
+.ITEM
+3 cups powdered sugar
+.LIST OFF
+.HEADING 2 "Instructions"
+.LIST DIGIT
+.ITEM
+soften butter in mixing bowl
+.ITEM
+zest lemon into mixing bowl
+.ITEM
+squeeze lemon into mixing bowl
+.ITEM
+mix in sugar
+.LIST OFF
+.HEADING 3 Note
+Use milk to thin frosting if too thick.  Add additional powdered sugar
+to thicken if too runny.
