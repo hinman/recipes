@@ -1,0 +1,40 @@
+.TITLE     "Bootleg Cocktail"
+.PRINTSTYLE TYPESET
+.START
+.HEADING_STYLE 1 FONT B QUAD C SIZE +4 
+.HEADING_STYLE 2 FONT B QUAD L SIZE +1
+.HEADING_STYLE 3 FONT BI QUAD L SIZE +1
+
+.HEADING 2 "Ingredients"
+.LIST BULLET
+.ITEM
+Fresh Lemon Juice
+.ITEM
+Fresh Lime Juice
+.ITEM
+Simple Syrup
+.ITEM
+Fresh Mint
+.ITEM
+Vodka
+.ITEM
+Club Soda
+.LIST OFF
+
+.HEADING 2 "Instructions"
+.LIST DIGIT
+.ITEM
+In shaker muddle mint leaf and 1 part simple syrup
+.ITEM
+Add ice
+.ITEM
+Add 1 part lime juice
+.ITEM
+Add 2 part lemon juice
+.ITEM
+Add 4 part vodka
+.ITEM
+Shake, strain into glass with ice
+.ITEM
+Add 4 part Club Soda
+.LIST OFF

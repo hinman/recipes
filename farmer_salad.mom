@@ -1,0 +1,55 @@
+.TITLE     "Farmer Salad ala Green and the Grain"
+.PRINTSTYLE TYPESET
+.START
+.HEADING_STYLE 1 FONT B QUAD C SIZE +4 
+.HEADING_STYLE 2 FONT B QUAD L SIZE +1
+.HEADING_STYLE 3 FONT BI QUAD L SIZE +1
+
+.HEADING 2 "Ingredients"
+.LIST BULLET
+.ITEM
+boneless skinless chicken breast
+.ITEM
+romaine lettuce
+.ITEM
+bacon
+.ITEM
+egg
+.ITEM
+avocado
+.ITEM
+tomato
+.ITEM
+red onion
+.ITEM
+smoked cheddar
+.ITEM
+ciabatta crouton
+.LIST OFF
+
+.HEADING 2 "Instructions"
+.LIST DIGIT
+.ITEM
+grill chicken, season with poultry seasoning and Lawrys Season Salt,
+then dice
+.ITEM
+slice romaine, wash & dry
+.ITEM
+hard boil egg, then quarter
+.ITEM
+cook bacon, then cut up
+.ITEM
+slice avocado
+.ITEM
+dice tomato
+.ITEM
+dice onion
+.ITEM
+grate cheese
+.ITEM
+combine to make salad
+.LIST OFF
+
+.HEADING 3 "Notes"
+.PP
+Suggested dressings are bleu cheese or buttermilk ranch

@@ -1,0 +1,32 @@
+.TITLE     "Queso"
+.PRINTSTYLE TYPESET
+.START
+.HEADING_STYLE 1 FONT B QUAD C SIZE +4 
+.HEADING_STYLE 2 FONT B QUAD L SIZE +1
+.HEADING_STYLE 3 FONT BI QUAD L SIZE +1
+
+.HEADING 2 "Ingredients"
+.LIST BULLET
+.ITEM
+4 oz. Supremo Mexican Style Crema (Sour Cream)
+.ITEM
+4 oz. Chihuahua Quesadilla Cheese
+.ITEM
+1 diced jalapeno
+.ITEM
+Chorizo
+.LIST OFF
+
+.HEADING 2 "Instructions"
+.LIST DIGIT
+.ITEM
+Thoroughly combine Crema & Chihuahua cheese.
+.ITEM
+Heat over medium-high heat for 2 mintues, stirring constantly
+.ITEM
+Allow dip to cook for 1 minute, undisturbed
+.ITEM
+Stir well
+.ITEM
+Add vegetables & chorizo
+.LIST OFF
