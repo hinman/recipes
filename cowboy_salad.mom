@@ -1,4 +1,4 @@
-.TITLE     "Queso"
+.TITLE     "Cowboy Salad"
 .PRINTSTYLE TYPESET
 .START
 .HEADING_STYLE 1 FONT B QUAD C SIZE +4 
@@ -6,27 +6,59 @@
 .HEADING_STYLE 3 FONT BI QUAD L SIZE +1
 
 .HEADING 2 "Ingredients"
-.LIST BULLET
-.ITEM
-4 oz. Supremo Mexican Style Crema (Sour Cream)
-.ITEM
-4 oz. Chihuahua Quesadilla Cheese
-.ITEM
-1 diced jalapeno
-.ITEM
-Chorizo
-.LIST OFF
-
+.TS
+expand allbox tab (|);
+l l l.
+boneless skinless chicken breast | lettuce | roma tomatos
+red onion | cilantro | limes
+salt | olive oil | seeded jalape\[~n]o peppers
+garlic fresh ground black pepper | corn kernels | black beans
+red bell pepper | radish | chihuahua cheese
+.TE
 .HEADING 2 "Instructions"
 .LIST DIGIT
 .ITEM
-Thoroughly combine Crema & Chihuahua cheese.
+prepare pico de gallo by mixing:
+.LIST
 .ITEM
-Heat over medium-high heat for 2 mintues, stirring constantly
+1 tsp. lime juice
 .ITEM
-Allow dip to cook for 1 minute, undisturbed
+pinch of salt
 .ITEM
-Stir well
+puree 1 roma tomato
 .ITEM
-Add vegetables & chorizo
+minced jalape\[~n]o
+.ITEM
+chopped cilantro
+.ITEM
+2 diced roma tomatos
+.ITEM
+equal portion of red onion to diced roma tomato
+.LIST OFF
+.ITEM
+puree in blender following items:
+.LIST
+.ITEM
+olive oil
+.ITEM
+jalape\[~n]o peppers
+.ITEM
+garlic
+.ITEM
+lime juice
+.ITEM
+black pepper
+.LIST OFF
+.ITEM
+use \[34] of marinade on chicken breast
+.ITEM
+marinate for at least 30 minutes
+.ITEM
+grill chicken
+.ITEM
+dice chicken
+.ITEM
+combine ingredients for salad
+.ITEM
+use remaining marinade for dressing
 .LIST OFF
