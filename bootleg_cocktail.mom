@@ -1,40 +1,40 @@
 .TITLE     "Bootleg Cocktail"
 .PRINTSTYLE TYPESET
+.PT_SIZE 11
+.TITLE_SIZE +12
+.TITLE_FONT H
+.COLUMNS 2 18p
 .START
-.HEADING_STYLE 1 FONT B QUAD C SIZE +4 
-.HEADING_STYLE 2 FONT B QUAD L SIZE +1
-.HEADING_STYLE 3 FONT BI QUAD L SIZE +1
-
-.HEADING 2 "Ingredients"
-.LIST BULLET
-.ITEM
-Fresh Lemon Juice
-.ITEM
-Fresh Lime Juice
-.ITEM
-Simple Syrup
-.ITEM
-Fresh Mint
-.ITEM
-Vodka
-.ITEM
-Club Soda
-.LIST OFF
-
-.HEADING 2 "Instructions"
+.HEADING_STYLE 3 FONT H QUAD L SIZE +1
+.COL_MARK
+.HEADING 3 "Ingredients"
+\*[RULE]
+.TS
+tab(|);
+r l.
+2 \f[I]oz.\f[P]|Vodka
+1 \f[I]oz.\f[P]|Fresh Lemon Juice
+\[12] \f[I]oz.\f[P]|Fresh Lime Juice
+\[12] \f[I]oz.\f[P]|Simple Syrup
+1 leaf|Fresh Mint
+4 \f[I]oz.\f[P]|Club Soda
+.TE
+.COL_NEXT
+.HEADING 3 "Instructions"
+\*[RULE]
 .LIST DIGIT
 .ITEM
-In shaker muddle mint leaf and 1 part simple syrup
+In shaker muddle mint leaf and simple syrup
 .ITEM
 Add ice
 .ITEM
-Add 1 part lime juice
+Add lime juice
 .ITEM
-Add 2 part lemon juice
+Add lemon juice
 .ITEM
-Add 4 part vodka
+Add vodka
 .ITEM
 Shake, strain into glass with ice
 .ITEM
-Add 4 part Club Soda
+Add Club Soda
 .LIST OFF

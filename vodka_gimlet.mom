@@ -1,0 +1,33 @@
+.TITLE     "Vodka Gimlet"
+.PRINTSTYLE TYPESET
+.PT_SIZE 11
+.TITLE_SIZE +12
+.TITLE_FONT H
+.COLUMNS 2 18p
+.START
+.HEADING_STYLE 1 FONT B QUAD C SIZE +8 
+.HEADING_STYLE 2 FONT B QUAD L SIZE +2
+.HEADING_STYLE 3 FONT H QUAD L SIZE +2
+.COL_MARK
+.HEADING 3 "Ingredients"
+\*[RULE]
+.TS
+tab(|);
+r l.
+2 \f[I]oz.\f[P]|Vodka
+1 \f[I]oz.\f[P]|fresh lime juice
+\[34] \f[I]oz.\f[P]|simple syrup
+.TE
+.COL_NEXT
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+fill shaker with ice
+.ITEM
+squeeze lime juice into shaker
+.ITEM
+add simple syrup
+.ITEM
+shake well and pour
+.LIST OFF

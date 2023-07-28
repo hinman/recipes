@@ -1,30 +1,42 @@
 .TITLE     "Strawberry Cupcakes"
 .PRINTSTYLE TYPESET
+.PT_SIZE 11
+.TITLE_SIZE +12
+.TITLE_FONT H
+.COLUMNS 2 18p
 .START
-.HEADING_STYLE 1 FONT B QUAD C SIZE +4 
-.HEADING_STYLE 2 FONT B QUAD L SIZE +1
-.HEADING_STYLE 3 FONT BI QUAD L SIZE +1
-
-.HEADING 1 "Cake"
+.HEADING_STYLE 2 FONT H QUAD L SIZE +2
+.HEADING_STYLE 3 FONT H QUAD L SIZE +1
+.COL_MARK
 .HEADING 2 "Ingredients"
-.LIST BULLET
-.ITEM
-1 white cake mix (without pudding)
-.ITEM
-3 oz. strawberry Jello
-.ITEM
-4 Tbsp. all purpose flour
-.ITEM
-1 cup milk
-.ITEM
-\[12] cup vegetable oil
-.ITEM
-\[12] cup crushed strawberries
-.ITEM
-3 large eggs
-.LIST OFF
+\*[RULE]
+.HEADING 3 "Cake"
+.TS
+tab(|);
+r l.
+1 box|white cake mix (without pudding)
+3 \f[I]oz.\f[P]|strawberry Jello
+4 \f[I]tbsp.\f[P]|all purpose flour
+1 cup|milk
+\[12] cup|vegetable oil
+\[12] cup|crushed strawberries
+3|large eggs
+.TE
+
+.HEADING 3 "Frosting"
+.TS
+tab(|);
+r l.
+1|medium lemon
+4 \f[I]tbsp.\f[P]|butter
+3 cups|powdered sugar
+.TE
+
+.COL_NEXT
 
 .HEADING 2 "Instructions"
+\*[RULE]
+.HEADING 3 "Cake"
 .LIST DIGIT
 .ITEM
 pre-heat oven 350\[de]
@@ -35,17 +47,8 @@ mix for 1\[12] \[en] 2 minutes  \*[BD]Do Not Over Mix\*[PREV]
 .ITEM
 bake for 20 \[en] 25 minutes
 .LIST OFF
-.HEADING 1 "Frosting"
-.HEADING 2 "Ingredients"
-.LIST BULLET
-.ITEM
-1 medium lemon
-.ITEM
-4 Tbsp. (\[12] stick) butter
-.ITEM
-3 cups powdered sugar
-.LIST OFF
-.HEADING 2 "Instructions"
+
+.HEADING 3 "Frosting"
 .LIST DIGIT
 .ITEM
 soften butter in mixing bowl
@@ -56,6 +59,7 @@ squeeze lemon into mixing bowl
 .ITEM
 mix in sugar
 .LIST OFF
+
 .HEADING 3 Note
 Use milk to thin frosting if too thick.  Add additional powdered sugar
 to thicken if too runny.

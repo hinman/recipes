@@ -1,23 +1,28 @@
 .TITLE     "Queso"
 .PRINTSTYLE TYPESET
+.PT_SIZE 11
+.TITLE_SIZE +12
+.TITLE_FONT H
+.COLUMNS 2 18p
 .START
-.HEADING_STYLE 1 FONT B QUAD C SIZE +4 
-.HEADING_STYLE 2 FONT B QUAD L SIZE +1
-.HEADING_STYLE 3 FONT BI QUAD L SIZE +1
-
-.HEADING 2 "Ingredients"
-.LIST BULLET
-.ITEM
-4 oz. Supremo Mexican Style Crema (Sour Cream)
-.ITEM
-4 oz. Chihuahua Quesadilla Cheese
-.ITEM
-1 diced jalapeno
-.ITEM
-Chorizo
-.LIST OFF
-
-.HEADING 2 "Instructions"
+.HEADING_STYLE 3 FONT H QUAD L SIZE +2
+.COL_MARK
+.HEADING 3 "Ingredients"
+\*[RULE]
+.TS
+tab(|);
+r l.
+4 \f[I]oz.\f[P]|T{
+Supremo Mexican Style Crema
+(Sour Cream)
+T}
+4 \f[I]oz.\f[P]|Chihuahua Quesadilla Cheese
+1|diced jalape\[~n]o
+\[14] \f[I]lbs\f[P]|Chorizo
+.TE
+.COL_NEXT
+.HEADING 3 "Instructions"
+\*[RULE]
 .LIST DIGIT
 .ITEM
 Thoroughly combine Crema & Chihuahua cheese.

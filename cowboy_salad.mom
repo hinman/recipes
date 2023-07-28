@@ -1,42 +1,40 @@
 .TITLE     "Cowboy Salad"
 .PRINTSTYLE TYPESET
+.PT_SIZE 11
+.TITLE_SIZE +12
+.TITLE_FONT H
+.COLUMNS 2 18p
 .START
-.HEADING_STYLE 1 FONT B QUAD C SIZE +4 
-.HEADING_STYLE 2 FONT B QUAD L SIZE +1
-.HEADING_STYLE 3 FONT BI QUAD L SIZE +1
-
-.HEADING 2 "Ingredients"
+.HEADING_STYLE 3 FONT H QUAD L SIZE +2
+.COL_MARK
+.HEADING 3 "Ingredients"
+\*[RULE]
 .TS
-expand allbox tab (|);
-l l l.
-boneless skinless chicken breast | lettuce | roma tomatos
-red onion | cilantro | limes
-salt | olive oil | seeded jalape\[~n]o peppers
-garlic fresh ground black pepper | corn kernels | black beans
-red bell pepper | radish | chihuahua cheese
+tab(|);
+r l.
+1|boneless skinless chicken breast
+1 head|romaine lettuce
+2|roma tomatos, diced
+\[12] cup|red onion
+1 \f[I]tbsp.\f[P]|cilantro
+1|lime
+\[12] \f[I]tsp.\f[P]|salt
+3 \f[I]oz.\f[P]|olive oil
+1|seeded jalape\[~n]o peppers
+1 clove|minced garlic
+1 \f[I]tsp.\f[P]|fresh ground black pepper
+1 cup|corn kernels
+1 can|black beans
+1|red bell pepper
+4|radishes diced
+1 cup|chihuahua cheese
 .TE
-.HEADING 2 "Instructions"
+.COL_NEXT
+.HEADING 3 "Instructions"
+\*[RULE]
 .LIST DIGIT
 .ITEM
-prepare pico de gallo by mixing:
-.LIST
-.ITEM
-1 tsp. lime juice
-.ITEM
-pinch of salt
-.ITEM
-puree 1 roma tomato
-.ITEM
-minced jalape\[~n]o
-.ITEM
-chopped cilantro
-.ITEM
-2 diced roma tomatos
-.ITEM
-equal portion of red onion to diced roma tomato
-.LIST OFF
-.ITEM
-puree in blender following items:
+puree the following items in a blender to make the marinade:
 .LIST
 .ITEM
 olive oil
@@ -53,6 +51,24 @@ black pepper
 use \[34] of marinade on chicken breast
 .ITEM
 marinate for at least 30 minutes
+.ITEM
+prepare the pico de gallo by mixing:
+.LIST
+.ITEM
+1 \f[I]tsp\f[P]. lime juice
+.ITEM
+pinch of salt
+.ITEM
+puree 1 roma tomato
+.ITEM
+minced jalape\[~n]o
+.ITEM
+chopped cilantro
+.ITEM
+2 diced roma tomatos
+.ITEM
+equal portion of red onion to diced roma tomato
+.LIST OFF
 .ITEM
 grill chicken
 .ITEM

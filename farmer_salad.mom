@@ -1,33 +1,28 @@
 .TITLE     "Farmer Salad ala Green and the Grain"
 .PRINTSTYLE TYPESET
+.PT_SIZE 11
+.TITLE_SIZE +12
+.TITLE_FONT H
+.COLUMNS 2 18p
 .START
-.HEADING_STYLE 1 FONT B QUAD C SIZE +4 
-.HEADING_STYLE 2 FONT B QUAD L SIZE +1
-.HEADING_STYLE 3 FONT BI QUAD L SIZE +1
-
-.HEADING 2 "Ingredients"
-.LIST BULLET
-.ITEM
-boneless skinless chicken breast
-.ITEM
-romaine lettuce
-.ITEM
-bacon
-.ITEM
-egg
-.ITEM
-avocado
-.ITEM
-tomato
-.ITEM
-red onion
-.ITEM
-smoked cheddar
-.ITEM
-ciabatta crouton
-.LIST OFF
-
-.HEADING 2 "Instructions"
+.HEADING_STYLE 3 FONT H QUAD L SIZE +2
+.COL_MARK
+.HEADING 3 "Ingredients"
+.TS
+tab (|);
+r l.
+1|boneless skinless chicken breast
+1 head|romaine lettuce
+4 pieces|bacon
+4|hard boiled eggs
+1|avocado
+2|roma tomatos diced
+\[12] cup|red onion
+1 \f[I]oz.\f[P]|smoked cheddar
+1 cup|ciabatta croutons
+.TE
+.COL_NEXT
+.HEADING 3 "Instructions"
 .LIST DIGIT
 .ITEM
 grill chicken, season with poultry seasoning and Lawrys Season Salt,
