@@ -1,0 +1,39 @@
+.TITLE     "Kelly's Apple Crisp"
+.PRINTSTYLE TYPESET
+.PT_SIZE 11
+.TITLE_SIZE +12
+.TITLE_FONT H
+.COLUMNS 2 18p
+.START
+.HEADING_STYLE 3 FONT H QUAD L SIZE +1
+.COL_MARK
+.HEADING 3 "Ingredients"
+\*[RULE]
+.TS
+tab(|);
+r l.
+x|apples
+x|cinnamon
+1 cup|granulated sugar
+1 cup|brown sugar
+2 cups|oatmeal
+2/3 cup|flour
+2/3 cup|melted butter
+.TE
+.COL_NEXT
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+pre-heat oven to 350\[de]
+.ITEM
+slice apples and layer in 9\[mu]13 inch pan
+.ITEM
+add cinnamon to apples
+.ITEM
+crumble remaining ingredients together
+.ITEM
+top apples with crumble
+.ITEM
+bake at 350\[de] for 20 \(em 25 minutes
+.LIST OFF
