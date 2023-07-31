@@ -1,0 +1,36 @@
+.TITLE     "Buttermilk Pancakes"
+.PRINTSTYLE TYPESET
+.PT_SIZE 11
+.TITLE_SIZE +12
+.TITLE_FONT H
+.COLUMNS 2 18p
+.START
+.HEADING_STYLE 3 FONT H QUAD L SIZE +1
+.COL_MARK
+.HEADING 3 "Ingredients"
+\*[RULE]
+.TS
+tab(|);
+r l.
+2 cups|all-purpose flour
+2 \f[I]tbsp.\f[P]|sugar
+2 \f[I]tbsp.\f[P]|baking powder
+\[12] \f[I]tsp.\f[P]|baking soda
+\[12] \f[I]tsp.\f[P]|salt
+1 large|egg
+3 \f[I]tbsp.\f[P]|unsalted butter, melted
+2 cups|buttermilk
+.TE
+.COL_NEXT
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+whisk together flour, sugar, baking powder, baking soda & salt
+.ITEM
+in separate bowl, whisk together egg, melted butter & buttermilk
+.ITEM
+gently combine, a few lumps should remain
+.ITEM
+cook on 350\[de] griddle
+.LIST OFF

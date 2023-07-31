@@ -1,0 +1,70 @@
+.TITLE     "Carrot Cake"
+.PRINTSTYLE TYPESET
+.PT_SIZE 11
+.TITLE_SIZE +12
+.TITLE_FONT H
+.COLUMNS 2 18p
+.START
+.HEADING_STYLE 2 FONT H QUAD L SIZE +2
+.HEADING_STYLE 3 FONT H QUAD L SIZE +1
+.COL_MARK
+.HEADING 2 "Ingredients"
+\*[RULE]
+.HEADING 3 "Cake"
+.TS
+tab(|);
+r l.
+1 \[12] cups|sugar
+1 cup|vegetable oil
+3 large|eggs
+2 cups|all-purpose flour
+1 \f[I]tbsp.\f[P]|ground cinnamon
+1 \f[I]tsp.\f[P]|baking soda
+1 \f[I]tsp.\f[P]|vanilla
+\[12] \f[I]tsp.\f[P]|salt
+\[14] \f[I]tsp.\f[P]|ground nutmeg
+\[14] \f[I]tsp.\f[P]|ground cloves
+3 cups|coarsely shredded carrots
+.TE
+.HEADING 3 "Cream Cheese Frosting"
+.TS
+tab(|);
+r l.
+8 \f[I]oz.\f[P]|cream cheese, softened
+1 \f[I]tbsp.\f[P]|milk
+1 \f[I]tsp.\f[P]|vanilla
+4 cups|powdered sugar
+.TE
+.COL_NEXT
+.HEADING 2 "Instructions"
+\*[RULE]
+.HEADING 3 "Cake"
+.LIST DIGIT
+.ITEM
+pre-heat oven to 350\[de]
+.ITEM
+grease and flour a 9\[mu]13 inch pan
+.ITEM
+mix sugar, oil & eggs in large bowl until blended, beat 1 minute
+.ITEM
+stir in remaining ingredients \f[B]except carrots\f[P], beat 1 minute
+.ITEM
+stir in carrots
+.ITEM
+pour into pan
+.ITEM
+bake at 350\[de] for 35 \(em 45 minutes, or until a wooden toothpick
+inserted in center comes out clean
+.ITEM
+cool on wire rack
+.ITEM
+frost with cream cheese frosting
+.LIST OFF
+.HEADING 3 "Cream Cheese Frosting"
+.LIST DIGIT
+.ITEM
+beat cream cheese, milk & vanilla in medium bowl on low speed until
+smooth
+.ITEM
+gradually beat in powdered sugar, 1 cup at a time until smooth
+.LIST OFF
