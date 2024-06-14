@@ -1,6 +1,6 @@
-%.pdf : %.tex
-	latexmk -pdf $?
-	latexmk -c
+TARGETS := $(patsubst %.mom,%.pdf,$(wildcard *.mom))
+
+all: $(TARGETS)
 
 %.pdf : %.mom
 	pdfmom $< -et > $@
