@@ -1,0 +1,65 @@
+.TITLE     "Grilled Chicken Salad with Rustic Guacamole"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+\[12] cup	vegetable oil
+4	cloves garlic, peeled and halved
+2	serrano chilles, stemmed and halved
+2	jalapeno chilles, stemmed and halved
+\[12] cup	lime juice
+\[34] cup	loosely packed, rough chopped cilantro
+\[14] \f[I]tsp.\f[P]	ground black pepper
+	salt
+4	boneless skinless chicken breasts
+1	medium white onion, cut into \[12] inch slices
+2	ripe avocados
+2	medium romain hearts, sliced crosswise into \[12] inch wide strips
+$1 smallover 3$ cup	grated Mexican queso anejo, or Romano or Parmesan
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+heat oil in small skillet over medium heat
+.ITEM
+add garlic and chiles, strir frequently until garlic is lightly browned
+.ITEM
+pour oil, garlic and chiles into blender
+.ITEM
+add lime juice, cilantro, black pepper and teaspoon salt
+.ITEM
+process until smooth
+.ITEM
+marinate chicken in \[12] of garlic dressing
+.ITEM
+cook onion and chicken on grill
+.ITEM
+chop onions and place in bowl
+.ITEM
+pit avocados and add to onions
+.ITEM
+add \[12] of garlic dressing to avocados and onion
+.ITEM
+mash together, season to taste with salt
+.ITEM
+mix romaine and remaining garlic dressing
+.ITEM
+add romain to dinner plate
+.ITEM
+scoop portion of gucamole into center of each plate
+.ITEM
+cut chicken breast into cubes and add to plate
+.ITEM
+sprinkle each plate with queso anejo
+.LIST OFF

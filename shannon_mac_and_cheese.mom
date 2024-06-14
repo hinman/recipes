@@ -1,0 +1,39 @@
+.TITLE     "Shannon's Mac and Cheese"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+16 \f[I]oz\f[P]	Jumbo Elbow Macaroni
+4 \f[I]oz.\f[P]	Prosciutto
+1 pint	Heavy Cream
+2 cups	Parmesan Cheese
+2 \[12] cups	Swiss Cheese
+2 cups	Milk
+1 \f[I]tsp.\f[P]	Nutmeg (Optional)
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Cook Pasta
+.ITEM
+Dice Prosciutto
+.ITEM
+Mix Pasta, Prosciutto, Cream, Milk and Parmesan
+.ITEM
+Add to 9\[mu]13 pan
+.ITEM
+Top with Salt, Pepper and Swiss Cheese
+.ITEM
+Bake at 375\[de] F. for 45 minutes
+.LIST OFF

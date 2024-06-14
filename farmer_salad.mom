@@ -1,12 +1,8 @@
 .TITLE     "Farmer Salad ala Green and the Grain"
 .PRINTSTYLE TYPESET
-.PT_SIZE 11
-.TITLE_SIZE +12
-.TITLE_FONT H
-.COLUMNS 2 18p
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
 .START
-.HEADING_STYLE 3 FONT H QUAD L SIZE +2
-.COL_MARK
 .HEADING 3 "Ingredients"
 .TS
 tab (|);
@@ -21,7 +17,6 @@ r l.
 1 \f[I]oz.\f[P]|smoked cheddar
 1 cup|ciabatta croutons
 .TE
-.COL_NEXT
 .HEADING 3 "Instructions"
 .LIST DIGIT
 .ITEM

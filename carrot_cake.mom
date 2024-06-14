@@ -1,13 +1,8 @@
 .TITLE     "Carrot Cake"
 .PRINTSTYLE TYPESET
-.PT_SIZE 11
-.TITLE_SIZE +12
-.TITLE_FONT H
-.COLUMNS 2 18p
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
 .START
-.HEADING_STYLE 2 FONT H QUAD L SIZE +2
-.HEADING_STYLE 3 FONT H QUAD L SIZE +1
-.COL_MARK
 .HEADING 2 "Ingredients"
 \*[RULE]
 .HEADING 3 "Cake"
@@ -35,7 +30,6 @@ r l.
 1 \f[I]tsp.\f[P]|vanilla
 4 cups|powdered sugar
 .TE
-.COL_NEXT
 .HEADING 2 "Instructions"
 \*[RULE]
 .HEADING 3 "Cake"

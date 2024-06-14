@@ -1,0 +1,31 @@
+.TITLE     "Cosmopolitan"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+1 \f[I]oz.\f[P]	Vodka
+\[12] \f[I]oz.\f[P]	fresh squeezed lime juice
+\[12] \f[I]oz.\f[P]	Triple Sec
+\[12] \f[I]oz.\f[P]	Cranberry juice
+\[12] \f[I]tsp.\f[P]	powdered sugar
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Add ice to shaker
+.ITEM
+mix powdered sugar and lime juice
+.ITEM
+add lime juice, cranberry juice, triple sec and vodka to shaker
+.ITEM
+shake and strain into a martini glass
+.LIST OFF

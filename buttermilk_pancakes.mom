@@ -1,12 +1,8 @@
 .TITLE     "Buttermilk Pancakes"
 .PRINTSTYLE TYPESET
-.PT_SIZE 11
-.TITLE_SIZE +12
-.TITLE_FONT H
-.COLUMNS 2 18p
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
 .START
-.HEADING_STYLE 3 FONT H QUAD L SIZE +1
-.COL_MARK
 .HEADING 3 "Ingredients"
 \*[RULE]
 .TS
@@ -21,7 +17,6 @@ r l.
 3 \f[I]tbsp.\f[P]|unsalted butter, melted
 2 cups|buttermilk
 .TE
-.COL_NEXT
 .HEADING 3 "Instructions"
 \*[RULE]
 .LIST DIGIT

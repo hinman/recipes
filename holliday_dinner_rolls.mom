@@ -1,0 +1,53 @@
+.TITLE     "Holiday Dinner Rolls"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.HEADING 3 "Rolls"
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+$1 smallover 3$ cup	water (80\[de] - 90\[de] F.)
+3	large eggs
+\[14] cup	butter cut up
+1 \f[I]tsp.\f[P]	salt
+3 \[12] cups	bread flour
+3 \f[I]tbsp.\f[P]	sugar
+2 \f[I]tsp.\f[P]	bread machine yeast
+.TE
+.HEADING 3 "Glaze"
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+1	large egg
+1 \f[I]tbsp.\f[P]	sugar
+.TE
+
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Add dough ingredients to bread machine
+.ITEM
+Use Dough setting on bread machine
+.ITEM
+form dough into rosettes
+.ITEM
+let rise to almost double
+.ITEM
+whisk glaze ingredients
+.ITEM
+apply glaze to rosettes
+.ITEM
+bake 375\[de] F. for 12 - 14 minutes
+.LIST OFF

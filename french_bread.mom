@@ -1,0 +1,32 @@
+.TITLE     "French Bread"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+1 \[14] cups	water (80\[de] - 90\[de] F.)
+1 \f[I]tbsp.\f[P]	sugar
+1 \[12] \f[I]tsp.\f[P]	salt
+4 cups	bread flour
+1 \[12] \f[I]tsp.\f[P]	bread machine yeast
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Measure ingredients into bread pan in the order listed
+.ITEM
+Insert bread pan securely into baking chamber, close lid.
+.ITEM
+Select FRENCH.  Choose loaf size of 2 lbs and desired crust color
+.ITEM
+Press START button  
+.ITEM
+Allow bread to cool on wire rack at least 20 minutes

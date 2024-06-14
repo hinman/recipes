@@ -3,7 +3,7 @@
 	latexmk -c
 
 %.pdf : %.mom
-	eqn -Tpdf $< | tbl | pdfmom > $@
+	pdfmom $< -et > $@
 
 clean :
 	-rm *.pdf

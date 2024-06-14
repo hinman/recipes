@@ -1,0 +1,37 @@
+.TITLE     "Dark Rum Mojito"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+3 \f[I]oz.\f[P]	Appleton Dark Rum
+1 \[12] \f[I]oz.\f[P]	simple syrup from brown sugar
+\[ti]2 \f[I]oz.\f[P]	Club Soda
+4	large mint leaves
+1	Key Lime, halved
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+squeeze lime into shaker glass, add halves
+.ITEM
+add mint leaves and simple syrup
+.ITEM
+mull with wooden spoon
+.ITEM
+fill with ice
+.ITEM
+add rum and club soda
+.ITEM
+shake well and poor
+.LIST OFF

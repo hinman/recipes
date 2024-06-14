@@ -1,14 +1,13 @@
 .TITLE     "Bootleg Cocktail"
 .PRINTSTYLE TYPESET
-.PT_SIZE 11
-.TITLE_SIZE +12
-.TITLE_FONT H
-.COLUMNS 2 18p
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
 .START
-.HEADING_STYLE 3 FONT H QUAD L SIZE +1
-.COL_MARK
 .HEADING 3 "Ingredients"
 \*[RULE]
+.EQ
+delim $$
+.EN
 .TS
 tab(|);
 r l.
@@ -19,7 +18,6 @@ r l.
 1 leaf|Fresh Mint
 4 \f[I]oz.\f[P]|Club Soda
 .TE
-.COL_NEXT
 .HEADING 3 "Instructions"
 \*[RULE]
 .LIST DIGIT

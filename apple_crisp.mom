@@ -1,26 +1,24 @@
 .TITLE     "Kelly's Apple Crisp"
 .PRINTSTYLE TYPESET
-.PT_SIZE 11
-.TITLE_SIZE +12
-.TITLE_FONT H
-.COLUMNS 2 18p
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
 .START
-.HEADING_STYLE 3 FONT H QUAD L SIZE +1
-.COL_MARK
 .HEADING 3 "Ingredients"
 \*[RULE]
+.EQ
+delim $$
+.EN
 .TS
-tab(|);
+delim($$);
 r l.
-x|apples
-x|cinnamon
-1 cup|granulated sugar
-1 cup|brown sugar
-2 cups|oatmeal
-2/3 cup|flour
-2/3 cup|melted butter
+1 dozen	apples
+6 \f[I]tbsp.\f[P]	cinnamon
+1 cup	granulated sugar
+1 cup	brown sugar
+2 cups	oatmeal
+$2 smallover 3$ cup	flour
+$2 smallover 3$ cup	melted butter
 .TE
-.COL_NEXT
 .HEADING 3 "Instructions"
 \*[RULE]
 .LIST DIGIT
