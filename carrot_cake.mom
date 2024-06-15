@@ -53,12 +53,14 @@ inserted in center comes out clean
 cool on wire rack
 .ITEM
 frost with cream cheese frosting
-.LIST OFF
+.QUIT_LISTS
+
 .HEADING 3 "Cream Cheese Frosting"
 .LIST DIGIT
 .ITEM
-beat cream cheese, milk & vanilla in medium bowl on low speed until
-smooth
+add cream cheese, milk, & vanilla to medium bowl
+.ITEM
+beat on low until smooth
 .ITEM
 gradually beat in powdered sugar, 1 cup at a time until smooth
-.LIST OFF
+.QUIT_LISTS
