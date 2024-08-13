@@ -1,0 +1,37 @@
+.TITLE     "Kabobs with California Marinade"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+3 \f[I]lbs.\f[P]	lean beef (round or chuck) cut in one inch cubes
+1 \f[I]cup\f[P]	Salad Oil
+\[34] \f[I]cup\f[P]	Soy sauce
+\[12] \f[I]cup\f[P]	Lemon Juice
+\[14] \f[I]cup\f[P]	Worchestershire sauce
+\[14] \f[I]cup\f[P]	prepared mustard
+2 \f[I]tbsp.\f[P]	salt
+1 \f[I]tbsp.\f[P]	coarsely cracked pepper
+2 \f[I]cloves\f[P]	garlic minced
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Combine salad oil, soy sauce, lemon juice, Worchestershire, mustard, salt, pepper, and garlic.
+.ITEM
+Add beef
+.ITEM
+Marinate for 24 to 36 hours
+.ITEM
+Add meat and vegetables of your choice to skewers
+.ITEM
+Broil over hot coals to medium rare / medium brushing with marinade.
+.LIST OFF
