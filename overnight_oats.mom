@@ -1,0 +1,31 @@
+.TITLE     "Overnight Oats"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.TS
+tab(|);
+r l.
+\[34] \f[I]cup\f[P]|Soy Milk
+\[12] \f[I]cup\f[P]|Rolled Oats
+\[14] \f[I]cup\f[P]|Protein Powder
+2 \f[I]tbsp.\f[P]|Raisins
+1 \f[I]tsp.\f[P]|Cinnamon
+\[18] \f[I]tsp.\f[P]|Salt
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Add soy milk and protein powder to glass container with lid
+.ITEM
+mix until protein powder is dissolved
+.ITEM
+add salt, cinnamon, raisins and salt
+.ITEM
+store in refrigerator overnight 
+.LIST OFF
