@@ -1,0 +1,40 @@
+.TITLE     "Sloppy Joes"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+1 \f[I]lbs.\f[P]	85% lean ground turkey
+1 \f[I]cup\f[P]	finely chopped bell pepper
+1 \f[I]cup\f[P]	finely chopped onion
+14 \f[I]oz.\f[P] can	diced tomatoes, drained
+2 \f[I]tbsp.\f[P]	quick cooking rolled oats
+2 \f[I]tsp.\f[P]	chili powder
+2 \f[I]tsp.\f[P]	Worcestershire sauce
+\[12] \f[I]tsp.\f[P]	garlic salt
+4 dashes	tabasco sauce
+1 \f[I]tbsp.\f[P]	olive oil
+\[14] \f[I]cup\f[P] approx.	ketchup
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+in large pot brown turkey, onions, bell pepper, and olive oil
+.ITEM
+add tomatoes, oats, chili powder, Worcestershire sauce, garlic salt,
+and tobasco sauce
+.ITEM
+add ketchup to desired consistency
+.ITEM
+simmer for 15 to 20 minutes
+.ITEM
+server on hamburger buns
+.LIST OFF
