@@ -1,0 +1,38 @@
+.TITLE     "Corn Muffins"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$) tab(|);
+r l.
+1 \f[I]cup\f[P]|all purpose flour
+\[34] \f[I]cup\f[P]|cornmeal
+$1 smallover 3$ \f[I]cup\f[P]|sugar
+2 \f[I]tsp.\f[P]|baking powder
+1|egg
+\[34] \f[I]cup\f[P]|milk
+\[14] \f[I]cup\f[P]|canola oil
+\[14] \f[I]tsp.\f[P]|salt
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+pre heat oven to 400\[de]F
+.ITEM
+In a mixing bowl combine flour, sugar, baking powder, and salt.
+.ITEM
+In a separate bowl whisk egg, milk, and oil.  Add to flour fixture.
+.ITEM
+Stir until moistened (should still be lumpy).
+.ITEM
+Add to muffin tin, bake for 20 minutes.
+.LIST OFF

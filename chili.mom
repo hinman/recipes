@@ -1,0 +1,41 @@
+.TITLE     "Turkey Chili"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.TS
+tab(|);
+r l.
+1 \f[I]lbs\f[P]|Ground Turkey
+1 \f[I]tbsp.\f[P]|olive oil
+1 |bell pepper, chopped fine
+1 \f[I]small\f[P]|onion, minced
+2 \f[I]cloves\f[P]|garlic, minced
+16 \f[I]oz. can\f[P]|diced tomatoes, drained
+16 \f[I]oz. can\f[P]|tomato sauce
+16 \f[I]oz. can\f[P]|kidney beans, drained and rinsed
+1 \[12] \f[I]tbsp.\f[P]|chili powder
+\[12] \f[I]tsp.\f[P]|dried basil
+\[12] \f[I]tsp.\f[P]|salt
+\[12] \f[I]tsp.\f[P]|pepper
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Brown turkey with olive oil, onions and bell pepper in sauce pan on
+medium high heat
+.ITEM
+Add garlic, basil, salt, pepper and chili powder.  cook 1 minute or
+until fragrant.
+.ITEM
+Add diced tomato and kidney beans
+.ITEM
+Add tomato sauce to desired thickness
+.ITEM
+Simmer for at least 20 minutes
+.LIST OFF
