@@ -1,0 +1,49 @@
+.TITLE     "Chicken Pizzaiola"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+3 \f[I]tbsp.\f[P]	extra-virgin olive oil
+3 cloves	garlic minced
+28 \f[I]oz.\f[P] can	crushed tomatoes
+15 \f[I]oz.\f[P] can	diced tomatoes
+3 \f[I]tbsp.\f[P]	minced fresh basil
+\[14] \f[I]tsp.\f[P]	salt
+\[14] \f[I]tsp.\f[P]	sugar
+4 6-8 \f[I]oz.\f[P]	boneless skinless chicken breasts
+2 \f[I]oz.\f[P]	grated Parmesan cheese
+4 \f[I]oz.\f[P]	grated mozzarella cheese
+2 \f[I]oz.\f[P]	pepperoni
+
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+in large pot cook olive oil and garlic over medium heat until
+fragrant, not browned
+.ITEM
+stir in crushed tomatoes and diced tomatoes
+.ITEM
+simmer 15 to 20 minutes, pre-heat oven to 450\[de]F
+.ITEM
+add basil, sugar and salt to taste
+.ITEM
+add 3 cups of tomato sauce to 9\[mu]13 baking dish
+.ITEM
+pat chicken dry with paper towel, season with salt and pepper, then
+bread with Parmesan cheese
+.ITEM
+lay chicken on top of tomato sauce, bake for 30 minutes
+.ITEM
+add mozzarella and pepperoni to chicken and bake 5 to 10 minutes
+longer until cheese starts to brown
+.LIST OFF
