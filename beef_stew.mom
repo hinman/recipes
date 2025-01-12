@@ -1,0 +1,58 @@
+.TITLE     "Beef Stew"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+3 \f[I]lbs.\f[P]	stew meat
+3 \f[I]tbsp.\f[P]	vegetable oil
+1	onion, minced
+1	rib celery, minced
+1	carrot, minced
+2 cloves	garlic, minced
+3 \f[I]tbsp.\f[P]	flour
+1 \f[I]cup\f[P]	dry red wine
+1 \f[I]cup\f[P]	low sodium beef broth
+1 \f[I]cup\f[P]	low sodium vegetable broth
+1 \f[I]tbsp.\f[P]	fresh thyme
+1	bay leaf
+1 \[12] \f[I]lbs.\f[P]	red potatoes, cut in 8ths
+1 \[12] \f[I]lbs.\f[P]	carrots, \[12] inch thick
+1 cup	frozen peas
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+pre heat oven to 300\[de]F
+.ITEM
+salt & pepper stew meat
+.ITEM
+Heat 1 \f[I]tbsp.\f[P] oil in dutch oven
+.ITEM
+Brown meat in batches, don't crowd.  Use 1 \f[I]tbsp.\f[P] oil per
+batch.  remove meat from dutch oven
+.ITEM
+Heat 1 \f[I]tbsp.\f[P] oil in dutch oven.  Add onions, celery and carrot and cook until softened.
+.ITEM
+Add garlic and cook for 30 seconds
+.ITEM
+Add flour and cook for 1 minute
+.ITEM
+Add wine and scrape up any browned bits.
+.ITEM
+Add broth, thyme, bay leaf and browned beef
+.ITEM
+place dutch oven in oven, cook for 1 hour
+.ITEM
+stir in potatoes and carrots, continue to cook for 1 hour
+.ITEM
+remove from oven, remove bay leaf, stir in peas.  Let stand for 5 minutes.
+.LIST OFF
