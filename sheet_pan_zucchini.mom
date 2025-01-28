@@ -1,0 +1,41 @@
+.TITLE     "Sheet Pan Zucchini"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.TS
+tab(|);
+r l.
+3 |Zucchini
+\[14] \f[I]tsp.\f[P]|onion powder
+\[14] \f[I]tsp.\f[P]|garlic powder
+\[14] \f[I]tsp.\f[P]|red pepper flakes
+1 \f[I]tsp.\f[P]|salt
+\[12] \f[I]tsp.\f[P]|black pepper
+2 \f[I]tbsp.\f[P]|olive oil
+\[14] \f[I]cup\f[P]|grated Parmesan
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Heat oven to 425\[de]F with convection roast mode if possible
+.ITEM
+In small bowl combine onion powder, garlic powder, red pepper flakes,
+salt, and pepper.  Stir in olive oil
+.ITEM
+wash and cut zucchini into \[12] to \[14] inch rounds
+.ITEM
+add zucchini to bowl and then toss with olive oil mixture
+.ITEM
+place onto baking sheet covered with parchment paper, make sure none
+of the zucchini slices are overlapping
+.ITEM
+sprinkle with Parmesan cheese
+.ITEM
+Roast for 30 to 35 minutes or until the zucchini is golden brown
+.LIST OFF
