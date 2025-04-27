@@ -1,0 +1,51 @@
+.TITLE     "Grilled Chicken Kebabs"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+\[12] \f[I]cup\f[P]	plain yogurt
+\[12] \f[I]cup\f[P]	extra virgin olive oil
+4 cloves	garlic minced
+2 \f[I]tsp.\f[P]	dried thyme
+2 \f[I]tsp.\f[P]	dried oregano
+1 \f[I]tsp.\f[P]	salt
+1 \f[I]tsp.\f[P]	ground black pepper
+\[14] \f[I]tsp.\f[P]	cayenne pepper
+1 \[12] \f[I]lbs.\f[P]	boneless skinless chicken breast, 1 inch cubes
+2 \f[I]tbsp.\f[P]	chopped fresh basil
+3 \f[I]tbsp.\f[P]	lemon juice
+2	red bell peppers, cut into 1 inch pieces
+1 large	red onion
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Whisk yogurt, \[14] cup oil, 1 \f[I]tbsp\f[P] garlic, thyme, oregano,
+salt, pepper and cayenne in large bowl
+.ITEM
+Stir in chicken, cover with plastic wrap and refrigerate 3 to 6 hours.
+.ITEM
+Whisk remaining \[14] cup oil, remaining garlic, basil and lemon juice
+in small bowl.  Cover and refrigerate while chicken is marinating.
+.ITEM
+Remove chicken from marinade and discard marinade.
+.ITEM
+Thread each skewer with 2 pieces pepper, 1 piece onion, 2 pieces
+chicken, and 1 piece onion.  Repeat twice more, ending with 2
+additional pieces of pepper.
+.ITEM
+Grill over high heat until vegetables and chicken are charred around
+edges on all four sides and chicken is cooked through.  approximately
+3 minutes per side.
+.ITEM
+Transfer to serving platter and brush kebabs all over with lemon dressing.
+.LIST OFF
