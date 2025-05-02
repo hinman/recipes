@@ -1,0 +1,44 @@
+.TITLE     "Roast Chicken and Vegetables"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+4	bone-in, skin-on split chicken breasts
+1 \f[I]lbs.\f[P]	red potatoes, scrubbed cut into 8ths
+3	carrots, peeled and cut into 1 inch chunks
+1	red onion, cut into 6 wedges
+2 \f[I]tbsp.\f[P]	extra virgin olive oil
+2 \f[I]tsp.\f[P]	minced fresh thyme
+\[12] \f[I]tsp.\f[P]	salt
+\[12] \f[I]tsp.\f[P]	black pepper
+2 \f[I]tbsp.\f[P]	butter, melted
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+pre-heat oven to 450\[de]
+.ITEM
+toss potatoes, carrots, onion, olive oil, thyme, salt and pepper together
+.ITEM
+spread vegetables in 9\[mu]13 baking dish
+.ITEM
+roast for 15 minutes
+.ITEM
+remove vegetables from oven, reduce heat to 400\[de]
+.ITEM
+place chicken breasts on top of vegetables, skin side up
+.ITEM
+brush chicken with melted butter, season with Lawry's Seasoned Salt and
+black pepper
+.ITEM
+bake for 45 \(en 60 minutes until chicken is cooked through and skin is browned
+.LIST OFF
