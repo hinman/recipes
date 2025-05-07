@@ -1,0 +1,30 @@
+.TITLE     "Southwestern Marinade for Steak Tips"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+$1 smallover 3$ cup	soy sauce
+$1 smallover 3$ cup	vegetable oil
+3 cloves	garlic, minced
+1 \f[I]tbsp.\f[P]	dark brown sugar
+1 \f[I]tbsp.\f[P]	tomato paste
+1 \f[I]tbsp.\f[P]	chili powder
+2 \f[I]tsp.\f[P]	cumin
+\[14] \f[I]tsp.\f[P]	cayenne pepper
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+combine all ingredients in small bowl
+.ITEM
+marinate beef for 6 \(en 24 hours
+.LIST OFF
