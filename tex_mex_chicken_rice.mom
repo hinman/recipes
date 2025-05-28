@@ -1,0 +1,55 @@
+.TITLE     "Tex-Mex Chicken and Rice"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+1 \f[I]cup\f[P]	low sodium chicken broth
+1 \f[I]cup\f[P]	long grain rice
+4 (1 \[12] \f[I]lbs.\f[P])	boneless skinless checking breasts
+1 \f[I]tbsp.\f[P]	vegetable oil
+2 10\f[I]oz.\f[P] cans	RO-TEL tomatoes
+1 16\f[I]oz.\f[P] can	black beans, rinsed
+3 \f[I]cups\f[P]	Fritos
+1 \f[I]cup\f[P]	shredded Mexican cheese
+$1 smallover 3$ \f[I]cup\f[P]	finely chopped fresh cilantro
+	salt and pepper
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+combine rice, broth and \[12] \f[I]tsp.\f[P] salt in large microwave
+safe bowl
+.ITEM
+cover with plastic wrap and microwave until liquid is absorbed, 6 to 8 minutes
+.ITEM
+heat oil in large oven safe skillet over medium-high heat
+.ITEM
+salt and pepper chicken
+.ITEM
+cook chicken until golden brown, about 3 minutes per side.  transfer
+to plate
+.ITEM
+add rice, RO-TEL tomatoes, and black beans to skillet and bring to boil
+.ITEM
+return chicken to skillet and cook covered over medium low heat until
+chicken is cooked through.  12 to 15 minutes
+.ITEM
+transfer chicken to cutting board and tent.  Let chicken and rice
+mixture cool for 5 minutes
+.ITEM
+dice chicken and combine with rice mixture
+.ITEM
+combine Fritos, cheese and cilantro in a bowl
+.ITEM
+sprinkle Frito mixture over chicken-rice mixture and broil until
+golden brown.  2 to 3 minutes
+.LIST OFF
