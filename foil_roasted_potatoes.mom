@@ -1,0 +1,41 @@
+.TITLE     "Foil-Roasted Potatoes"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+2 \f[I]lbs.\f[P]	small red potatoes, quartered
+2 \f[I]tsp.\f[P]	chopped fresh rosemary
+1 \[14] \f[I]tsp.\f[P]	salt
+1 \f[I]tsp.\f[P]	chopped fresh thyme
+\[12] \f[I]tsp.\f[P]	pepper
+4 \f[I]tbsp.\f[P]	unsalted butter, cut into \[12] inch pieces
+3 \f[I]cloves\f[P]	garlic, sliced thin or diced
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Pre heat oven to 400\[de]F
+.ITEM
+In a mixing bowl toss potatoes, rosemary, salt, thyme, and pepper.
+.ITEM
+Line baking sheet with aluminum foil
+.ITEM
+Spread potatoes, face down over foil, leaving 1 \[12] inch border
+.ITEM
+Place second sheet of aluminum foil over first
+.ITEM
+Fold edges creating a sealed packet
+.ITEM
+Bake for 40 minutes, let potatoes cool for 5 minutes before opening.
+.LIST OFF
