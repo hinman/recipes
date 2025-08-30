@@ -1,0 +1,43 @@
+.TITLE     "Chicken Tinga Tacos"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+1 \f[I]lbs.\f[P]	poached chicken breast
+1 \f[I]cup\f[P]	roughly chopped sweet onion
+1 \f[I]tbsp.\f[P]	olive oil
+4	chipotle peppers in adobo sauce, chopped
+1 \f[I]tsp.\f[P]	oregano
+\[12] \f[I]tsp.\f[P]	ground cumin
+12 \f[I]oz.\f[P] can	fire roasted tomatoes
+\[14] \f[I]cup\f[P]	chicken stock
+\[12] \f[I]tsp.\f[P]	kosher salt
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+shred poached chicken
+.ITEM
+saute onions and olive oil until tender
+.ITEM
+Add garlic and cook for 30 seconds
+.ITEM
+stir in chipotles, oregano and cumin, toast for 1 minute
+.ITEM
+add fire roasted tomatoes, chicken stock and salt, simmer for 7
+minutes
+.ITEM
+add mixture to blender and blend until smooth
+.ITEM
+return blended mixture to pan, add chicken and heat over low heat for
+5 minutes
+.LIST OFF

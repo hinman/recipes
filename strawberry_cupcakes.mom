@@ -1,11 +1,9 @@
 .TITLE     "Strawberry Cupcakes"
 .PRINTSTYLE TYPESET
 .DOCHEADER_FAMILY H
-.HEADING_STYLE 1 FAMILY H
-.HEADING_STYLE 2 FAMILY H
 .HEADING_STYLE 3 FAMILY H
 .START
-.HEADING 1 "Ingredients"
+.HEADING 3 "Ingredients"
 \*[RULE]
 .HEADING 3 "Cake"
 .TS
@@ -27,7 +25,7 @@ r l.
 4 \f[I]tbsp.\f[P]|butter
 3 cups|powdered sugar
 .TE
-.HEADING 1 "Instructions"
+.HEADING 3 "Instructions"
 \*[RULE]
 .HEADING 3 "Cake"
 .LIST DIGIT
@@ -51,6 +49,6 @@ squeeze lemon into mixing bowl
 .ITEM
 mix in sugar
 .LIST OFF
-.HEADING 3 Note
+.PP
 Use milk to thin frosting if too thick.  Add additional powdered sugar
 to thicken if too runny.
