@@ -1,0 +1,38 @@
+.TITLE     "Cheeseburger Macaroni"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$) tab(|);
+r l.
+1 \f[I]lbs.\f[P]|lean ground beef
+1 \f[I]cup\f[P]|finely chopped onion
+12 \f[I]oz.\f[P]|elbow macaroni
+2 \[12] \f[I]cups\f[P]|chicken broth
+1 \f[I]tbsp.\f[P]|Worcestershire sauce
+6 \f[I]oz.\f[P]|Deli American cheese
+\[14] \f[I]tsp.\f[P]|salt
+\[14] \f[I]tsp.\f[P]|pepper
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+cook beef and onions in skillet until beef is no longer pink
+.ITEM
+add macaroni, broth, Worcestershire, salt and pepper and bring to boil
+.ITEM
+cover and simmer until macaroni is tender, 8 to 10 minutes
+.ITEM
+Stir in cheese
+.ITEM
+Season with salt and pepper to taste.
+.LIST OFF
