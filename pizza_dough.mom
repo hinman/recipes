@@ -1,0 +1,40 @@
+.TITLE     "Pizza Dough"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$) tab(|);
+r l.
+3 \f[I]cups\f[P]|bread flour
+1 \f[I]cup\f[P]|whole wheat flour
+2 \[12] \f[I]tsp.\f[P]|instant or rapid rise yeast
+1 \[12] \f[I]tsp.\f[P]|salt
+2 \f[I]tbsp.\f[P]|olive oil
+1 \[34] \f[I]cups\f[P]|warm water
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+mix flour, yeast and salt
+.ITEM
+add warm water
+.ITEM
+mix until rough ball forms
+.ITEM
+add olive oil to counter
+.ITEM
+kneed olive oil into dough
+.ITEM
+transfer to lightly oiled bowl
+.ITEM
+let rise in a warm place until double in size, 1 to 1\[12] hours
+.LIST OFF

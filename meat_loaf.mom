@@ -1,0 +1,43 @@
+.TITLE     "Meat Loaf"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$) tab(|);
+r l.
+1 \f[I]lbs.\f[P]|ground beef
+1|beaten egg
+\[34] \f[I]cup\f[P]|crushed saltine crackers
+\[14] \f[I]cup\f[P]|milk
+\[14] \f[I]cup\f[P]|finely chopped onion
+\[14] \f[I]cup\f[P]|celery
+\[12] \f[I]tsp.\f[P]|thyme
+\[12] \f[I]tsp.\f[P]|oregano
+\[12] \f[I]tsp.\f[P]|salt
+\[12] \f[I]tsp.\f[P]|pepper
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+preheat oven to 350\[de]F
+.ITEM
+in a mixing bowl combine egg, saltines, milk, onion, celery, thyme,
+oregano, salt and pepper
+.ITEM
+add ground beef and mix well
+.ITEM
+in a shallow baking dish form mixture into 7\[mu]3\[mu]2 inch loaf
+.ITEM
+bake for 45 to 50 minutes until no pink remains
+.ITEM
+serve with ketchup
+.LIST OFF
