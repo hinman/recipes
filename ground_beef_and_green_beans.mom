@@ -1,0 +1,35 @@
+.TITLE     "Ground Beef and Green Beans"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$) tab(|);
+r l.
+1\[12] \f[I]lbs.\f[P]|lean ground beef
+1 \f[I]tbsp.\f[P]|avocado oil
+2 \f[I]cups\f[P]|fresh green beans
+3 \f[I]cloves\f[P]|garlic, minced
+3 \f[I]tbsp.\f[P]|soy sauce
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Heat oil in skillet over medium high heat
+.ITEM
+Add ground beef and garlic, cook until no pink remains
+.ITEM
+Add green beans and soy sauce
+.ITEM
+cover and reduce heat to medium low, simmer for 8 to 10 minutes
+.ITEM
+remove lid and stir-fry for 1 to 2 minutes
+.LIST OFF

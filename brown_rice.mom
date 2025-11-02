@@ -1,0 +1,33 @@
+.TITLE     "Brown Rice"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$) tab(|);
+r l.
+1 \f[I]cup\f[P]|brown rice
+\[14] \f[I]tsp.\f[P]|salt
+1 \f[I]tbsp.\f[P]|butter
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+rinse rice, soak for up to 1 hour
+.ITEM
+bring 2\[18] cups of water and butter to a boil
+.ITEM
+add rice
+.ITEM
+cover and cook on low for 40 to 50 minutes
+.ITEM
+salt to taste after rice is cooked
+.LIST OFF
