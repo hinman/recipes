@@ -1,0 +1,57 @@
+.TITLE     "Black Beans & Brown Rice"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+1\[12] \f[I]cups\f[P]	medium grain brown rice
+2\[12] \f[I]cups\f[P]	water
+\[14] \f[I]cup\f[P]	olive oil, divided
+1\[12] \f[I]tsp.\f[P]	kosher salt, divided
+4	garlic cloves, smashed
+\[14] \f[I]tsp.\f[P]	red pepper flakes
+1	small onion, chopped
+1 \f[I]15 oz.\f[P]	can Black Beans
+1 \f[I]tsp.\f[P]	dry oregano
+\[12] \f[I]tsp.\f[P]	freshly ground black pepper
+1	avocado, pitted peeled and diced
+	chopped cilantro, to serve
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Preheat oven to 375\[de]F
+.ITEM
+Spread the rice into an 8-in square glass baking dish.
+.ITEM
+Stir in tablespoon of olive oil and one teaspoon of salt.
+.ITEM
+Bring the water to boil in electric kettle and pour over the rice.
+.ITEM
+Cover tightly with heavy duty aluminum foil.
+.ITEM
+Bake on the middle rack of the oven for 1 hour.
+.ITEM
+Meanwhile, place a 12-inch saute pan over medium heat.  Add remaining
+3 tablespoons of oil, garlic and red pepper flakes.  Cook, stirring
+frequently, until the garlic is golden brown, 3 - 5 minutes.
+.ITEM
+Add onion, remaining salt and cook, stirring often, until the onion
+starts to color, 1 - 2 minutes.
+.ITEM
+Add the black beans, oregano, and black pepper.  Cook, stirring
+frequently, for 6 - 8 minutes.
+.ITEM
+Remove the cover from the rice, fluff with a fork, and allow to "steam
+out" for 2 minutes.
+.ITEM
+Serve the beans over the rice and garnish with avocado and cilantro.
+.LIST OFF
