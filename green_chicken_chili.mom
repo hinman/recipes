@@ -1,0 +1,48 @@
+.TITLE     "Green Chicken Chili"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$) tab(|);
+r l.
+1 \f[I]tbsp.\f[P]|vegetable oil
+1|onion chopped fine
+\[34] \f[I]tsp.\f[P]|pepper
+\[12] \f[I]tsp.\f[P]|salt
+3 cloves|garlic, minced
+2 \f[I]tsp.\f[P]|ground cumin
+4 \f[I]cups\f[P]|chicken broth
+2 15\f[I]oz.\f[P] cans|cannellini beans, rinsed
+1 jar|green salsa
+2\[12] \f[I]lbs.\f[P]|shredded chicken, could be poached or rotisserie
+\[12] \f[I]cup\f[P]|chopped fresh cilantro
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Heat oil in dutch oven over medium heat until shimmering
+.ITEM
+Add onion, pepper, and salt and cook until softened, about 4 minutes
+.ITEM
+Stir in garlic and cumin and cook until fragrant, about 1 minute
+.ITEM
+Increase heat to medium-high.  Stir in broth, beans and salsa and
+bring to a boil
+.ITEM
+Reduce heat to medium-low and simmer until flavors have melded, about
+10 minutes
+.ITEM
+Mash some beans against side of pot until chili is slightly thickened.
+.ITEM
+Stir in chicken and cilantro.  Continue to simmer until warmed
+through, about 2 minutes.
+.LIST OFF

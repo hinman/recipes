@@ -17,10 +17,10 @@ r l.
 \[34] \f[I]cup\f[P]|cornmeal
 $1 smallover 3$ \f[I]cup\f[P]|sugar
 2 \f[I]tsp.\f[P]|baking powder
+\[14] \f[I]tsp.\f[P]|salt
 1|egg
 \[34] \f[I]cup\f[P]|milk
 \[14] \f[I]cup\f[P]|canola oil
-\[14] \f[I]tsp.\f[P]|salt
 .TE
 .HEADING 1 "Instructions"
 \*[RULE]
@@ -28,7 +28,7 @@ $1 smallover 3$ \f[I]cup\f[P]|sugar
 .ITEM
 pre heat oven to 400\[de]F
 .ITEM
-In a mixing bowl combine flour, sugar, baking powder, and salt.
+In a mixing bowl combine flour, cornmeal, sugar, baking powder, and salt.
 .ITEM
 In a separate bowl whisk egg, milk, and oil.  Add to flour fixture.
 .ITEM
