@@ -1,0 +1,68 @@
+.TITLE     "Pot Roast with Root Vegetables"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+3\[12] \f[I]lbs.\f[P]	boneless chuck eye roast
+2 \f[I]tbsp.\f[P]	vegetable oil
+1	onion, chopped coarse
+1	rib celery, chopped coarse
+1	carrot, chopped coarse
+2 cloves	garlic, minced
+2 \f[I]tsp.\f[P]	sugar
+1 \f[I]cup\f[P]	low sodium beef broth
+1 \f[I]cup\f[P]	low sodium chicken broth
+1 sprig	fresh thyme
+1\[12] \f[I]cup\f[P]	water
+1\[12] \f[I]lbs.\f[P]	red potatoes, cut in 8ths
+1\[12] \f[I]lbs.\f[P]	carrots, \[12] inch thick
+\[14] \f[I]cup\f[P]	dry red wine
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Pre-heat oven to 300\[de]F.
+.ITEM
+Salt & pepper the roast.
+.ITEM
+Heat oil in dutch oven on medium high.
+.ITEM
+Brown the roast on all sides.
+.ITEM
+Remove the roast, add onion, celery and carrot.  cook over medium heat
+until brown
+.ITEM
+Add garlic and sugar.  Cook for 30 seconds
+.ITEM
+Add broth and thyme.
+.ITEM
+Return the roast.  Add water until it measures half way up the sides
+.ITEM
+Bring to a simmer, cover and transfer to oven
+.ITEM
+Cook, turning the roast every 30 minutes for 3\[12] hourrs.
+.ITEM
+Add the potatoes and carrots, submerge in liquid.
+.ITEM
+Cook for 1 hour, until vegetables are tender
+.ITEM
+Transfer roast to carving board and vegetables to serving platter.  Tent with foil
+.ITEM
+Let the liquid settle for 5 minutes, skim any fat from the surface.
+.ITEM
+strain, keeping liquid.
+.ITEM
+add wine to liquid and simmer for 5 minutes.
+.ITEM
+remove twine from roast and slice.  Pour \[12] cup of sauce
+over roast.
+.LIST OFF
