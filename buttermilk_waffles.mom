@@ -1,0 +1,39 @@
+.TITLE     "Buttermilk Waffles"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.TS
+tab(|);
+r l.
+2 cups|all-purpose flour
+2 \f[I]tbsp.\f[P]|fine ground cornmeal
+1 \f[I]tsp.\f[P]|salt
+\[12] \f[I]tsp.\f[P]|baking soda
+2 large|eggs separated
+4 \f[I]tbsp.\f[P]|unsalted butter, melted
+1\[34] cups|buttermilk
+pinch|cream of tartar
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Heat waffle iron
+.ITEM
+Whisk together flour, cornmeal, salt, and baking soda in large bowl
+.ITEM
+In separate bowl, whisk together egg yolks, melted butter & buttermilk
+.ITEM
+In third bowl, beat the cream of tartar and egg whites until stiff peaks.
+.ITEM
+Add buttermilk mixture to flour fixture.  Gently combine until almost
+mixed.
+.ITEM
+Fold in egg whites to batter.  Should still be thick and lumpy.  Do
+not overmix.
+.ITEM
+Cook on waffle iron
+.LIST OFF
