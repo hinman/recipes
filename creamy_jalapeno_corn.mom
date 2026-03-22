@@ -1,0 +1,38 @@
+.TITLE     "Creamy Jalape\[~n]o Corn"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 1 FAMILY H
+.HEADING_STYLE 2 FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 1 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$) tab(|);
+r l.
+2 \f[I]tbsp.\f[P]|unsalted butter
+2 \f[I]large\f[P]|jalape\[~n]os diced
+2 \f[I]cloves\f[P]|garlic minced
+16 \f[I]oz.\f[P]|frozen corn
+\[12] \f[I]tsp.\f[P]|salt
+\[12] \f[I]tsp.\f[P]|paprika
+\[14] \f[I]tsp.\f[P]|red pepper flakes
+\[12] \f[I]cup\f[P]|heavy cream
+.TE
+.HEADING 1 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Melt butter in skillet over medium heat.
+.ITEM
+Cook jalape\[~n]os and garlic for roughly one minute.
+.ITEM
+Add corn, salt, paprika and red pepper flakes.  Cook for 5 to 7 minutes.
+.ITEM
+Add heavy cream and stir to combine.  Cook until cream thickens.
+.ITEM
+Remove from heat and serve.
+.LIST OFF
