@@ -1,0 +1,46 @@
+.TITLE     "Orange Chipotle Glazed Pork Chops"
+.PRINTSTYLE TYPESET
+.DOCHEADER_FAMILY H
+.HEADING_STYLE 3 FAMILY H
+.START
+.HEADING 3 "Ingredients"
+\*[RULE]
+.EQ
+delim $$
+.EN
+.TS
+delim($$);
+r l.
+4	boneless center cut or loin chops \[34] to 1 inch thick
+	salt & !pepper
+\[34] \f[I]cup\f[P]	orange juice
+1 \f[I]tsp.\f[P]	lime juice
+1 \f[I]tsp.\f[P]	minced canned chipotle chiles
+1 \f[I]tbsp.\f[P]	avocado oil
+\[12] \f[I]tsp.\f[P]	grated lime zest
+.TE
+.HEADING 3 "Instructions"
+\*[RULE]
+.LIST DIGIT
+.ITEM
+Trim chops and slash through fat and silver skin, making 2 cuts 2
+inches apart
+.ITEM
+Salt and pepper chops
+.ITEM
+Combine orange juice, lime juice, and chiles
+.ITEM
+Heat avocado oil in large skillet over medium-high heat until shimmering
+.ITEM
+Add pork chops and cook until well browned, about 5 minutes
+.ITEM
+Turn pork chops and add glaze.
+.ITEM
+Turn heat down to medium low and cook until pork is 140\[de]F, 5 to 8 minutes
+.ITEM
+Remove chops and tent with foil
+.ITEM
+Simmer glaze over medium heat until thick and syrupy, then add lime zest
+.ITEM
+Pour glaze over chops and serve.
+.LIST OFF
